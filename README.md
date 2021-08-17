@@ -14,6 +14,6 @@ Open the command line and open the SUPERIO app in your IDE.
 4. Enter `npm i mocha` to install mocha testing.
 5. Enter `npm i web3` to install Web3.
 6. Enter `npm install -g solc` to install the Solidity compiler.
-7. Enter cd src on the command line to navigate to the src directory.
+7. Enter `cd src` on the command line to navigate to the src directory.
 8. To run tests run `truffle test`.
 
