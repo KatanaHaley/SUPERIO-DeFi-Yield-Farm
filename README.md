@@ -8,6 +8,7 @@ To use the app, you'll need to download Node JS v15.12.0, Solidity 0.5.0, Truffl
 Download the SUPERIO zip file or clone with git clone https://github.com/KatanaHaley/SUPERIO-DeFi-Yield-Farm.git.
 Open the command line and open the SUPERIO app in your IDE.
 
+## Backend
 1. Enter `npm install` on the command line.
 2. Enter `npm i truffle` to install truffle testing.
 3. Enter `npm i chai` to install the chai library.
@@ -16,4 +17,7 @@ Open the command line and open the SUPERIO app in your IDE.
 6. Enter `npm install -g solc` to install the Solidity compiler.
 7. Enter `cd src` on the command line to navigate to the src directory.
 8. To run tests run `truffle test`.
+
+## Frontend
+To view the front end UI of the app, run `npm start`.
 
